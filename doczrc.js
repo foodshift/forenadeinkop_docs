@@ -1,7 +1,7 @@
 // doczrc.js
 
 export default {
-  title: 'Inköpsföreningarnas handbok',
+  title: 'Handbok för inköpsföreningar',
   description: 'Vad är en inköpsförening? Hur startar man och driver? Hur gör andra? Handboken samlar fakta och innehåller exempel.',
   src: 'src',
   // dest: '.docz/dist',
