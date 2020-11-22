@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://forenadeinkop.se',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -9,7 +9,7 @@ const config = {
     logo: '/img/FI_Logotyp_RGB-03.svg',
     logoLink: 'https://forenadeinkop.se',
     title: 'En handbok för matkooperativ',
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+    githubUrl: 'https://github.com/foodshift/forenadeinkop_docs',
     helpUrl: '',
     tweetText: '',
     social: ``,
@@ -62,17 +62,18 @@ const config = {
     title: '',
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Boilerplate | Hasura',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'En handbok för matkooperativ | Förenade Inköp',
+    description:
+      'Handboken är en levande samling inspiration och kunskap, praktiska erfarenheter samt länkar vidare.',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/foodshift/forenadeinkop_docs/tree/master/content',
     favicon: '/img/FI_Logotyp_RGB-03.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Gatsby Gitbook Starter',
-      short_name: 'GitbookStarter',
+      name: 'En handbok för matkooperativ',
+      short_name: 'HandbokMatkooperativ',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
