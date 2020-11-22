@@ -1,19 +1,6 @@
 import { injectGlobal } from 'emotion';
 
 export const baseStyles = injectGlobal`
-@import url("https://p.typekit.net/p.css?s=1&k=otg4vkd&ht=tk&f=28981.37954&a=1349673&app=typekit&e=css");
-
-@font-face {
-font-family:"rift-soft";
-src:url("https://use.typekit.net/af/41882d/00000000000000003b9adf1e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"),url("https://use.typekit.net/af/41882d/00000000000000003b9adf1e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"),url("https://use.typekit.net/af/41882d/00000000000000003b9adf1e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
-font-display:auto;font-style:italic;font-weight:500;
-}
-
-@font-face {
-font-family:"atten-round-new";
-src:url("https://use.typekit.net/af/973e2e/00000000000000003b9b18c4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/973e2e/00000000000000003b9b18c4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/973e2e/00000000000000003b9b18c4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;
-}
 
   * {
     margin: 0;
