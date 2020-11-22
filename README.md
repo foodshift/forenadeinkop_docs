@@ -4,28 +4,6 @@ Handbook (in Swedish) about cooperatively run grocery stores, food hubs and buye
 
 View website at: [https://handbok.forenadeinkop.se](https://handbok.forenadeinkop.se)
 
-Built using [docz](https://www.docz.site/).
+Built upon:
 
-## Setup
-
-```sh
-yarn # npm i
-```
-
-## Run
-
-```sh
-yarn dev # npm run dev
-```
-
-## Build
-
-```sh
-yarn build # npm run build
-```
-
-## Serve built app
-
-```sh
-yarn serve # npm run serve
-```
+![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
