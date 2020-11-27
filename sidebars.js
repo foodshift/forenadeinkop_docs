@@ -1,0 +1,35 @@
+module.exports = {
+  someSidebar: {
+    Innehåll: [
+      "index",
+      "Historik-kooperation",
+      "Syfte-och-former",
+      {
+        "Olika sorters matkooperativ": [
+          "Inkopsforening",
+          "Konsumentkooperativ-med-butik",
+          "Personalkooperativ",
+          "Producentkooperativ-med-butik",
+        ],
+      },
+      "Finansiering",
+      "Stadgar",
+      "Styrelse",
+      "Demokrati-och-beslut",
+      "Medlemmar",
+      "Engagemang-och-drivkrafter",
+      "Arbetsgrupper",
+      "Butik-gemensam-lokal",
+      "Sortiment-lagerhallning",
+      "Prissattning-lonsamhet",
+      "Leverantor-producent",
+      "Hur-handlar-man",
+      "Livsmedelssakerhet",
+      "Extern-kommunikation",
+      "Intern-kommunikation",
+      "IT-stod-verktyg",
+      "Ekonomi-och-redovisning",
+      "Om-Food-Shift",
+    ],
+  },
+};
